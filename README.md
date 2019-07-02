@@ -13,4 +13,8 @@
 ### Deliverables
 - proces de peer review [required]
 - review de estimare
-- review de deisgn si architeuri
+- review de deisgn si architeure
+
+
+### Sonar
+- 
